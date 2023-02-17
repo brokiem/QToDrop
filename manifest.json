@@ -1,0 +1,10 @@
+﻿{
+  "Name": "QToDrop",
+  "Author": "brokiem",
+  "Version": "1.0.0",
+  "Description": "Drop items by pressing Q or custom keybind (like Minecraft)",
+  "UniqueID": "brokiem.QToDrop",
+  "EntryDll": "QToDrop.dll",
+  "MinimumApiVersion": "3.15.0",
+  "UpdateKeys": []
+}
